@@ -205,7 +205,7 @@
             "logo": "bbcthree.svg",
             "name": "BBC Three",
             "type": "dash",
-            "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd",
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/hevc_iptv_mse_v0.mpd",
             "hd": true,
             "geoblock": {
                 "type": "hls",
@@ -568,7 +568,7 @@
             "logo": "cbbc.svg",
             "name": "CBBC",
             "type": "dash",
-            "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbbc_hd/iptv_hd_abr_v1.mpd",
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbbc_hd/hevc_iptv_mse_v0.mpd",
             "hd": true,
             "geoblock": {
                 "type": "hls",
@@ -585,7 +585,7 @@
             "logo": "cbeebies.svg",
             "name": "CBeebies",
             "type": "dash",
-            "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd",
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/hevc_iptv_mse_v0.mpd",
             "hd": true,
             "geoblock": {
                 "type": "hls",
@@ -651,7 +651,7 @@
             "logo": "bbcnews.svg",
             "name": "BBC News",
             "type": "dash",
-            "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/pc_hd_abr_v2.mpd",
+            "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd",
             "hd": true,
             "epg": {
                 "source": "blue",
@@ -663,7 +663,7 @@
             "logo": "bbcparliament.svg",
             "name": "BBC Parliament",
             "type": "dash",
-            "url": "https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_hd_abr_v1.mpd",
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/hevc_iptv_mse_v0.mpd",
             "geoblock": {
                 "type": "hls",
                 "url": "zappr://filmon/1666"
@@ -702,7 +702,7 @@
             "logo": "bbcredbutton.svg",
             "name": "BBC Red Button",
             "type": "dash",
-            "url": "https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd",
+            "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:red_button_one/hevc_iptv_mse_v0.mpd",
             "hd": true,
             "geoblock": true,
             "epg": {
